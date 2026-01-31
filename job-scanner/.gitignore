@@ -1,0 +1,28 @@
+# Browser profile (contains session cookies and LinkedIn credentials)
+browser_profile/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+*.egg-info/
+
+# Output files (contains personal application data)
+output/
+!output/.gitkeep
+
+# Config files with personal data
+config/profile*.txt
+config/searches.json
+config/searches_*.json
+config/calibration_prompt*.md
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

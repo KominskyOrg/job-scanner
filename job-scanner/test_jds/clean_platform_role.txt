@@ -1,0 +1,30 @@
+Senior Platform Engineer
+TechCorp Inc. - Remote
+
+About the Role:
+We're looking for a Senior Platform Engineer to own and evolve our Kubernetes-based platform infrastructure. You'll be responsible for designing and implementing infrastructure patterns that enable our engineering teams to deploy reliably at scale.
+
+Responsibilities:
+- Own and operate production EKS clusters serving 500+ microservices
+- Design and maintain Terraform modules for multi-account AWS infrastructure
+- Build and improve our observability stack using Datadog (APM, logs, metrics)
+- Lead incident response and drive reliability improvements through postmortems
+- Define platform standards and best practices for the engineering organization
+- Implement GitOps workflows using ArgoCD and Helm
+
+Requirements:
+- 5+ years of experience in platform/infrastructure engineering
+- Deep expertise with Kubernetes (preferably EKS) in production environments
+- Strong Terraform skills with multi-account AWS experience
+- Experience with observability platforms (Datadog, Prometheus, Grafana)
+- Track record of reducing cloud costs and improving system reliability
+
+Nice to have:
+- Experience with service mesh (Istio, Linkerd)
+- Go or Python programming experience
+- SRE certifications
+
+Work arrangement: Fully remote (US-based)
+Compensation: $150,000 - $180,000 base + equity
+
+This is a full-time, permanent position with comprehensive benefits.

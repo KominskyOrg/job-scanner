@@ -1,0 +1,25 @@
+Backend Engineer - Platform Team
+CloudNative Systems - Remote / Hybrid Nashville
+
+About the Team:
+Our Platform team builds the foundation that all product teams rely on. We own the infrastructure, deployment pipelines, and developer experience.
+
+What You'll Work On:
+- Build internal platform tools and APIs
+- Contribute to our Kubernetes deployment infrastructure
+- Help improve our Terraform-based infrastructure
+- Work with Datadog for monitoring and alerting
+- Participate in on-call rotation
+
+Requirements:
+- 4+ years of backend engineering experience
+- Familiarity with Kubernetes and containerized workloads
+- Experience with cloud infrastructure (AWS preferred)
+- Python or Go programming skills
+- Strong communication and collaboration skills
+
+This role bridges backend development and infrastructure work. You'll write code for platform tools while also maintaining infrastructure components.
+
+Compensation: $140,000 - $165,000 + benefits
+Full-time, permanent role
+Remote-friendly with optional hybrid in Nashville office

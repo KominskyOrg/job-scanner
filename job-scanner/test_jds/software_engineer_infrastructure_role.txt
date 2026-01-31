@@ -1,0 +1,30 @@
+Software Engineer, Infrastructure
+ScaleUp Technologies - Remote
+
+About ScaleUp:
+We're a Series B startup building the next generation of developer tools. Our platform serves thousands of engineering teams worldwide.
+
+The Role:
+Despite the "Software Engineer" title, this role is squarely focused on infrastructure and platform systems. You'll own the systems that keep our platform running reliably.
+
+What You'll Do:
+- Own and evolve our Kubernetes infrastructure on AWS EKS
+- Build and maintain Terraform modules for our cloud infrastructure
+- Design and implement observability solutions using Datadog
+- Drive incident response and on-call rotations
+- Architect solutions for scaling our platform to 10x current load
+- Mentor junior engineers on infrastructure best practices
+
+What We're Looking For:
+- 5+ years of experience with production infrastructure
+- Expert-level Kubernetes experience (cluster management, networking, security)
+- Strong Terraform and AWS skills (EKS, RDS, S3, IAM)
+- Experience with GitOps (ArgoCD, Flux) and CI/CD pipelines
+- Demonstrated ownership of reliability and cost optimization
+
+Benefits:
+- Fully remote work
+- Competitive salary ($160k-$190k) + equity
+- Full-time permanent position
+
+We're looking for a Senior IC to drive infrastructure forward, not manage a team.

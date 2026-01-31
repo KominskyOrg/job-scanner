@@ -1,0 +1,39 @@
+{
+  "clean_platform_role": {
+    "final_decision": "APPLY",
+    "notes": "Clear platform ownership, EKS, Terraform, Datadog - ideal match"
+  },
+  "software_engineer_infrastructure_role": {
+    "final_decision": "APPLY",
+    "notes": "Title misleading but role is pure platform/infra work"
+  },
+  "backend_engineer_platform_role": {
+    "final_decision": "APPLY",
+    "alt": "CONSIDER",
+    "notes": "Hybrid backend/platform role, ownership language present but bridges roles"
+  },
+  "backend_role": {
+    "final_decision": "SKIP",
+    "notes": "Product features, React, roadmap - wrong role type entirely"
+  },
+  "contract_to_hire_role": {
+    "final_decision": "SKIP",
+    "notes": "Contract-to-hire explicit dealbreaker"
+  },
+  "onsite_role": {
+    "final_decision": "SKIP",
+    "notes": "Relocation required, onsite 5 days - location dealbreaker"
+  },
+  "staffing_firm_role": {
+    "final_decision": "CONSIDER",
+    "notes": "CyberCoders is staffing firm, should trigger high risk"
+  },
+  "ambiguous_devops_role": {
+    "final_decision": "CONSIDER",
+    "notes": "Unclear ownership, vague scope, no clear platform ownership"
+  },
+  "devops_role_support_queue": {
+    "final_decision": "SKIP",
+    "notes": "Ticket queue support role, customer-facing, not platform ownership"
+  }
+}

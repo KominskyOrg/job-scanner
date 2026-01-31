@@ -1,0 +1,32 @@
+Senior Backend Engineer
+ProductFirst Inc. - Remote
+
+About Us:
+We're building a B2B SaaS platform that helps companies manage their customer relationships. We're growing fast and need engineers to help ship features.
+
+The Role:
+Join our product engineering team to build customer-facing features that drive our roadmap forward. You'll work closely with product managers and designers to deliver delightful user experiences.
+
+Responsibilities:
+- Build and ship product features across our full stack
+- Collaborate with product on feature delivery and roadmap planning
+- Write clean, maintainable React and Node.js code
+- Participate in code reviews and design discussions
+- Work with our mobile team on API integrations
+
+Requirements:
+- 5+ years of full stack or backend experience
+- Strong React and TypeScript skills
+- Node.js API development experience
+- Experience with PostgreSQL and Redis
+- Product mindset - you care about user outcomes
+
+Nice to Have:
+- Mobile development experience (React Native)
+- UI/UX sensibility
+- Experience in B2B SaaS
+
+We deploy to AWS but you won't need deep infrastructure knowledge - our platform team handles that.
+
+Compensation: $150,000 - $170,000
+Full-time, remote position

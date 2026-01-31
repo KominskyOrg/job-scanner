@@ -1,0 +1,86 @@
+# ==========================================
+# SENSITIVE DATA - DO NOT COMMIT
+# ==========================================
+
+# Personal Information & Job Applications
+# All personal resumes, cover letters, applications
+job_search/
+
+# Personal profile files (screening, writing, legacy)
+job-scanner/config/profile*.txt
+job-scanner/config/profile.txt
+
+# LinkedIn search URLs (reveals job search)
+job-scanner/config/searches.json
+job-scanner/config/searches_*.json
+
+# Generated Application Materials (all generated outputs)
+job-scanner/output/
+!job-scanner/output/.gitkeep
+
+# Browser Session (LinkedIn credentials)
+job-scanner/browser_profile/
+
+# Prompt/Calibration files that may contain personal context
+job-scanner/config/calibration_prompt*.md
+
+# ==========================================
+# STANDARD EXCLUDES
+# ==========================================
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv/
+.env
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+.installed.cfg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Testing artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Claude Code
+.claude/

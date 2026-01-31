@@ -1,0 +1,40 @@
+{
+  "version": "1.0",
+  "paths": {
+    "output_dir": "output",
+    "prompts": {
+      "evaluator": "config/prompt.txt",
+      "writer_cover_letter": "config/prompt.txt",
+      "writer_recruiter": "config/prompt.txt"
+    }
+  },
+  "enums": {
+    "final_decision": ["APPLY", "CONSIDER", "SKIP"],
+    "confidence_signal": ["HIGH", "MEDIUM", "LOW"],
+    "risk_level": ["low", "medium", "high"],
+    "seniority_level": ["Junior", "Mid", "Senior", "Staff", "Principal", "Unknown"],
+    "remote_status": ["Remote", "Hybrid", "Onsite", "Unknown"],
+    "source": ["linkedin_manual", "linkedin_scrape", "company_careers", "job_board", "recruiter_inbound", "referral"],
+    "outreach_status": ["not_started", "in_progress", "sent", "responded", "no_response"],
+    "referral_status": ["not_started", "identified", "reached_out", "confirmed", "declined"],
+    "pipeline_status": ["pending", "applied", "interviewing", "offer", "rejected", "withdrawn"]
+  },
+  "thresholds": {
+    "apply_min_score": 9,
+    "consider_min_score": 6,
+    "cover_letter_min_score": 8,
+    "recruiter_message_min_score": 9,
+    "_note": "In strict mode, cover_letter_min_score < apply_min_score is effectively unused since Stage 2 only runs for APPLY roles (score >= 9)"
+  },
+  "stage2_mode": "strict",
+  "scrape_settings": {
+    "store_raw_html": false,
+    "store_raw_html_on_failure": true,
+    "store_raw_html_sample_rate": 0.0,
+    "min_description_length": 100
+  },
+  "staffing_detection": {
+    "company_indicators": ["staffing", "recruiting", "talent", "consultants", "tek systems", "robert half", "insight global", "randstad", "adecco", "kforce", "cybercoders", "hays", "manpower", "modis", "apex group"],
+    "description_phrases": ["our client", "on behalf of", "contract position", "c2c", "corp to corp", "w2 contract", "contract-to-hire", "client company"]
+  }
+}

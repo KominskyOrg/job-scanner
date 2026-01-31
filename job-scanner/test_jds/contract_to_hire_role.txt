@@ -1,0 +1,27 @@
+DevOps Engineer (Contract-to-Hire)
+TalentSource Staffing - On behalf of our client
+
+Position Details:
+Our client, a growing fintech company, is seeking a DevOps Engineer for a contract-to-hire opportunity. Initial contract duration: 6 months with potential conversion to full-time.
+
+Responsibilities:
+- Support CI/CD pipeline maintenance
+- Assist with Kubernetes cluster operations
+- Help with AWS infrastructure management
+- Monitor and respond to alerts
+- Document procedures and runbooks
+
+Requirements:
+- 3+ years DevOps experience
+- Kubernetes familiarity
+- AWS experience (EC2, S3, RDS)
+- Terraform basics
+- Strong communication skills
+
+Details:
+- Contract rate: $75-85/hr W2
+- Duration: 6 months contract-to-hire
+- Location: Hybrid (3 days onsite in Chicago)
+
+About TalentSource:
+We're a leading IT staffing firm connecting talented engineers with great opportunities.

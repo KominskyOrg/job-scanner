@@ -1,0 +1,29 @@
+Senior DevOps Engineer
+CyberCoders - Multiple Locations / Remote
+
+On behalf of our client, a rapidly growing tech company, we are seeking a Senior DevOps Engineer.
+
+Our client is building next-generation cloud infrastructure and needs experienced DevOps talent to join their team.
+
+What You'll Do:
+- Build and maintain Kubernetes clusters
+- Develop Terraform infrastructure modules
+- Implement CI/CD pipelines
+- Support production systems
+
+Requirements:
+- 5+ years DevOps/SRE experience
+- Strong Kubernetes skills
+- Terraform and AWS experience
+- Python or Go programming
+
+Benefits (through our client):
+- Competitive salary $150k-$180k
+- Full-time position
+- Remote work available
+- Comprehensive benefits
+
+About CyberCoders:
+We're a tech-focused recruiting firm that connects engineers with top opportunities. We work with hundreds of tech companies across industries.
+
+Apply now and one of our recruiters will reach out to discuss this opportunity and others that may be a fit.

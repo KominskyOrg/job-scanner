@@ -1,0 +1,29 @@
+Senior Platform Engineer
+FinanceCore - New York, NY (Onsite Required)
+
+About FinanceCore:
+We're a leading financial services technology company serving major Wall Street firms.
+
+The Role:
+We need a Senior Platform Engineer to join our infrastructure team in our Manhattan office. Due to the nature of our work with financial data, this role requires onsite presence.
+
+Responsibilities:
+- Design and build Kubernetes-based platform infrastructure
+- Own Terraform modules for our AWS environment
+- Implement security and compliance controls
+- Lead platform architecture decisions
+- Mentor team members
+
+Requirements:
+- 6+ years platform engineering experience
+- Expert Kubernetes and Terraform skills
+- AWS certifications preferred
+- Financial services experience a plus
+
+Location Requirements:
+- Must be located in or willing to relocate to the NYC metro area
+- Relocation required - relocation assistance provided
+- Onsite required 5 days per week (no remote option)
+
+Compensation: $180,000 - $220,000 + bonus
+Full-time permanent position

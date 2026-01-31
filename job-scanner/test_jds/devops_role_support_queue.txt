@@ -1,0 +1,35 @@
+DevOps Support Engineer
+EnterpriseSystems Inc. - Remote
+
+About EnterpriseSystems:
+We provide enterprise software solutions to Fortune 500 companies. Our DevOps team supports thousands of customer deployments.
+
+The Role:
+Join our DevOps support team to help customers with their deployments and technical issues. You'll be the first line of support for our platform.
+
+Day-to-Day:
+- Respond to customer tickets in Zendesk queue
+- Troubleshoot deployment issues for customers
+- Escalate complex issues to engineering
+- Update knowledge base articles
+- Join customer calls to explain technical details
+- Meet SLA targets for ticket response times
+
+Requirements:
+- 3+ years in technical support or DevOps
+- Experience with ticket queue management
+- Customer-facing communication skills
+- Basic knowledge of containers and cloud
+- Ability to work in shifts (some weekend coverage required)
+
+Metrics:
+- Ticket resolution rate
+- Customer satisfaction scores
+- SLA compliance
+
+This role is focused on supporting customers, not building internal systems. You'll work with existing tools, not design new platforms.
+
+Compensation: $100,000 - $125,000
+Full-time, permanent, remote position
+
+Our support team uses Kubernetes and AWS, but you'll be triaging issues, not building infrastructure.

@@ -1,0 +1,33 @@
+DevOps Engineer
+MidSize Corp - Remote
+
+About Us:
+We're a mid-sized company looking to modernize our infrastructure. We need someone to help us move to the cloud.
+
+The Role:
+Looking for a DevOps Engineer to help with our cloud migration and ongoing operations.
+
+Responsibilities:
+- Help migrate applications to AWS
+- Set up CI/CD pipelines
+- Support development teams with deployments
+- Monitor production systems
+- Respond to incidents and troubleshoot issues
+- Write documentation
+
+Requirements:
+- 3+ years of DevOps or systems administration experience
+- Some experience with AWS
+- Familiarity with Docker containers
+- Basic scripting skills (Bash, Python)
+- Good communication skills
+
+Nice to Have:
+- Kubernetes experience
+- Terraform experience
+- Cloud certifications
+
+We're not sure exactly what we need yet, but we're looking for someone who can help us figure it out. The role may evolve as we learn more about cloud best practices.
+
+Compensation: $120,000 - $145,000
+Full-time, remote position
